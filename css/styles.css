@@ -76,6 +76,10 @@ hr {
   right: 300px;
   top: 50px;
 }
+.mountain {
+  position: relative;
+  top: 10px;
+}
 .burger {
   max-width: 250px;
   margin-right: 30px;
