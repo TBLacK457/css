@@ -39,7 +39,7 @@ p {
   font-size: 1.3rem;
 }
 hr {
-  border-style: none none dotted none;
+  border-style: none none dotted;
   border-color: #EAF6F6;
   border-width: 5px;
   margin: 100px auto;
